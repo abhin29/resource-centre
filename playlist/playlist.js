@@ -41,7 +41,7 @@ let data = [
     headings: [
       {
         subtitle: "SJ",
-        description: "Static Eliminator",
+        description: "Under Development",
         link: ""
       }
     ],
@@ -57,17 +57,17 @@ let data = [
     headings: [
       {
         subtitle: "GT",
-        description: "LVDT Contact sensor",
+        description: "Under Development",
         link: ""
       },
       {
         subtitle: "IL",
-        description: "Laser Displacement sensor",
+        description: "Under Development",
         link: ""
       },
       {
         subtitle: "IG",
-        description: "Thrubeam sensor",
+        description: "Under Development",
         link: ""
       }
     ],
@@ -83,17 +83,17 @@ let data = [
     headings: [
       {
         subtitle: "EX",
-        description: "Proximity Vibration sensor",
+        description: "Under Development",
         link: ""
       },
       {
         subtitle: "GA",
-        description: "Shock sensor",
+        description: "Under Development",
         link: ""
       },
       {
         subtitle: "FW",
-        description: "Ultrasonic Distance sensor",
+        description: "Under Development",
         link: ""
       },
     ],
