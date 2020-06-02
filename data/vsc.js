@@ -44,9 +44,9 @@ let data = [
     title: "Application Sensors-1",
     headings: [
       {
-        subtitle: "GT",
+        subtitle: "GT2",
         description: "LVDT Contact sensor",
-        link: ""
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={26917514-8D33-408D-ACBC-237811BEED2E}"
       },
       {
         subtitle: "IL",
@@ -60,7 +60,7 @@ let data = [
       }
     ],
      disabled_subtitles: [
-      "GT",
+      "",
       "IL",
       "IG",
       
