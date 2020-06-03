@@ -51,7 +51,7 @@ let data = [
       {
         subtitle: "IL",
         description: "Laser Displacement sensor",
-        link: ""
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={882AF292-449F-4F98-9B16-7EE9234697A0}"
       },
       {
         subtitle: "IG",
@@ -61,7 +61,7 @@ let data = [
     ],
      disabled_subtitles: [
       "",
-      "IL",
+      "",
       "IG",
       
     ]
