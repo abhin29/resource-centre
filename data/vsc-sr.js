@@ -1,5 +1,15 @@
 let data = [
   {
+    title: "",
+    headings: [
+      {
+        subtitle: "SR-1000N Introduction Video",
+        description: "",
+        link: "https://youtu.be/OyFZscYbxzk"
+      }
+    ]
+  },
+  {
     title: "Introduction",
     headings: [
       {
