@@ -10,12 +10,12 @@ let data = [
       {
         subtitle: "Video Playlist",
         description: "",
-        link: "./playlist/playlist.html"
+        link: ""
       }
     ],
     disabled_subtitles: [
       "Internal training",
-      ""
+      "Video Playlist"
     ]
   }
 ];
