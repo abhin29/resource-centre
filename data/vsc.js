@@ -30,11 +30,11 @@ let data = [
       {
         subtitle: "SJ",
         description: "Static Eliminator",
-        link: ""
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3E76A5B7-F9B6-4185-B08E-F9CA4C59DB9B}"
       }
     ],
     disabled_subtitles: [
-      "SJ",
+      "",
       "",
       "",
       
