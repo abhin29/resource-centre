@@ -8,7 +8,7 @@ let data = [
         link: "./pages/vsc.html"
       },
       {
-        subtitle: "Video Playlist",
+        subtitle: "Youtube Playlist",
         description: "",
         link: ""
       }
