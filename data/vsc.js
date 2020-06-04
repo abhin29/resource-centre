@@ -51,7 +51,7 @@ let data = [
       {
         subtitle: "IL",
         description: "Laser Displacement sensor",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={7E06E12B-176B-4DED-B49D-9C8F61087644}"
+        link: ""
       },
       {
         subtitle: "IG",
