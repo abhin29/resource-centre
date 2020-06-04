@@ -56,11 +56,11 @@ let data = [
       {
         subtitle: "IG",
         description: "Thrubeam sensor",
-        link: "https://keyencein.sharepoint.com/:p:/s/KIN_ALL2/ESvhBn5rF-1NtJ2cj2EIdkQBzj7wHZ--WjgNsNaBMYH0vw?e=64BHsc"
+        link: ""
       }
     ],
      disabled_subtitles: [
-      "",
+      "IG",
       "",
       "",
       
