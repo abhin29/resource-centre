@@ -46,12 +46,12 @@ let data = [
       {
         subtitle: "GT2",
         description: "LVDT Contact sensor",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={26917514-8D33-408D-ACBC-237811BEED2E}"
+        link: "../pages/vsc-gt.html"
       },
       {
         subtitle: "IL",
         description: "Laser Displacement sensor",
-        link: "https://keyencein.sharepoint.com/:p:/s/KIN_ALL2/ESvhBn5rF-1NtJ2cj2EIdkQBzj7wHZ--WjgNsNaBMYH0vw?e=ryAPfE"
+        link: "../pages/vsc-il.html"
       },
       {
         subtitle: "IG",
