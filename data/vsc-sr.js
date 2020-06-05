@@ -4,7 +4,7 @@ let data = [
     headings: [
       {
         subtitle: "SR-1000N Introduction Video",
-        description: "",
+        description: "🎬",
         link: "https://youtu.be/OyFZscYbxzk"
       }
     ]
