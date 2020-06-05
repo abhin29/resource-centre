@@ -3,7 +3,7 @@ let data = [
     title: "",
     headings: [
       {
-        subtitle: "SR-1000N Introduction Video",
+        subtitle: "SR-1000N Exhibition movie",
         description: "🎬",
         link: "https://youtu.be/OyFZscYbxzk"
       }
