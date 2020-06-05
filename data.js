@@ -9,7 +9,7 @@ let data = [
       },
       {
         subtitle: "Youtube Playlist",
-        description: "",
+        description: "Sharable URL links",
         link: "./playlist/playlist.html"
       }
     ],
