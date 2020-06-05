@@ -10,7 +10,7 @@ let data = [
       {
         subtitle: "Youtube Playlist",
         description: "",
-        link: ""
+        link: "./playlist/playlist.html"
       }
     ],
     disabled_subtitles: [
