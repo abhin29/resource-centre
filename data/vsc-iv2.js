@@ -29,22 +29,22 @@ let data = [
     headings: [
       {
         subtitle: "Rubber",
-        description: "",
+        description: "🎬",
         link: "https://youtu.be/rHsXB9hEdPY"
       },
       {
         subtitle: "Lock",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=hwUz2LwMgQc&t=2s"
       },
       {
         subtitle: "Cast metal-1",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=Vu1zUJeR3ZA"
       },
       {
         subtitle: "Cast metal-2",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=1_4WMuEsmR8"
       }
     ]
@@ -54,27 +54,27 @@ let data = [
     headings: [
       {
         subtitle: "Unboxing",
-        description: "Unpacking and assembly Procedure",
+        description: "Unpacking and assembly Procedure 🎬",
         link: "https://youtu.be/IREkfYvHvpM"
       },
       {
         subtitle: "Initial setup procedure",
-        description: "Sensor setup procedure  (control panel)",
+        description: "Sensor setup procedure  (control panel) 🎬",
         link: "https://youtu.be/7PiI4SHkaJQ"
       },
       {
         subtitle: "Learning Mode (AI) ",
-        description: "Learning mode setup procedure",
+        description: "Learning mode setup procedure 🎬",
         link: "https://youtu.be/WueV-nJdDvc"
       },
       {
         subtitle: "Additional learning (AI) ",
-        description: "Procedure of Additional Learning",
+        description: "Procedure of Additional Learning 🎬",
         link: "https://youtu.be/WmX8ogixiUk"
       },
       {
         subtitle: " Web Monitor ",
-        description: "Communication",
+        description: "Communication 🎬",
         link: "https://youtu.be/oaWPKl55DPM"
       }
     ],

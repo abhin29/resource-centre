@@ -82,14 +82,14 @@ let data = [
       {
         subtitle: "FW",
         description: "Ultrasonic Distance sensor",
-        link: ""
+        link: "../pages/vsc-fw.html"
       },
     ],
     disabled_subtitles: [
       
       "EX",
       "GA",
-      "FW",
+      "",
     ]
   }
 ];

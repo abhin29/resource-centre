@@ -19,17 +19,17 @@ let data = [
     headings: [
       {
         subtitle: "IV Navigator Setup ",
-        description: "Setup the PC software for IV.",
+        description: "Setup the PC software for IV. 🎬",
         link: "https://www.keyence.com/support/user/iv/video/iv-training_videos_01.jsp"
       },
       {
         subtitle: "Image Optimization",
-        description: "Achieving the best possible image far a variety of different situation.",
+        description: "Achieving the best possible image far a variety of different situation. 🎬",
         link: "https://www.keyence.com/support/user/iv/video/iv-training_videos_02.jsp"
       },
       {
         subtitle: "IV Polarization filter Attachment",
-        description: "How to attach and when to use the polarizing filter.",
+        description: "How to attach and when to use the polarizing filter. 🎬",
         link: "https://www.keyence.com/support/user/iv/video/iv-training_videos_06.jsp"
       },  
       
@@ -40,17 +40,17 @@ let data = [
     headings: [
       {
         subtitle: "Position Adjustment",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=r1F2uzpefdA"
       },
       {
         subtitle: "Color Area",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=CzIfQWQQSYU"
       },
       {
         subtitle: "Outline",
-        description: "",
+        description: "🎬",
         link: "https://www.youtube.com/watch?v=ralNlmfexkQ"
       },  
       
