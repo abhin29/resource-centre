@@ -1,27 +1,12 @@
 let data = [
    {
-    title: "Introduction movies",
+    title: "",
     headings: [
       {
-        subtitle: "Setting procedure",
+        subtitle: "General Introduction",
         description: "🎬",
-        link: "https://youtu.be/N3YzMvtbW2Y"
-      },
-      {
-        subtitle: "General all-round distance sensor",
-        description: "🎬",
-        link: "https://youtu.be/NSiWpTo62ng"
-      },
-      {
-        subtitle: "Zero-shift function",
-        description: "🎬",
-        link: "https://youtu.be/iDS1RGV4f8Q"
-      },
-      {
-        subtitle: "Environment resistance - Waterproof",
-        description: "🎬",
-        link: "https://youtu.be/z2VV92Nk5EE"
-      },
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={C0FBA9C9-6A72-4DB4-9AEA-F529C485E20F}"
+      }
     ],
     disabled_subtitles: [
       "",
