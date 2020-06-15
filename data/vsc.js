@@ -65,7 +65,7 @@ let data = [
       }
     ],
      disabled_subtitles: [
-      "IG",
+      "",
       "",
       "",
       
