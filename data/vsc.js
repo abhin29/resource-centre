@@ -61,7 +61,7 @@ let data = [
       {
         subtitle: "IG",
         description: "Thrubeam sensor",
-        link: ""
+        link: "../pages/vsc-ig.html"
       }
     ],
      disabled_subtitles: [
