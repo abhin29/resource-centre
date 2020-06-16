@@ -31,11 +31,6 @@ let data = [
         subtitle: "SJ",
         description: "Static Eliminator",
         link: "../pages/vsc-sj.html"
-      },
-      {
-        subtitle: "SK",
-        description: "Electrostatic sensor",
-        link: "../pages/vsc-sk.html"
       }
     ],
     disabled_subtitles: [
