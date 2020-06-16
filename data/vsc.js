@@ -15,11 +15,11 @@ let data = [
     ]
   },
   {
-    title: "Auto ID(Traceability) / Static",
+    title: "Auto ID / Static",
     headings: [
       {
-        subtitle: "SR",
-        description: "Code reader and Traceability",
+        subtitle: "SR(Code reader)",
+        description: "Traceability solutions",
         link: "../pages/vsc-sr.html"
       },
       {
