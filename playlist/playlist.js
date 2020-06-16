@@ -4,8 +4,8 @@ let data = [
     headings: [
       {
         subtitle: "IV2",
-        description: "Under Development",
-        link: ""
+        description: "AI vision sensor",
+        link: "../playlist/playlist-iv2.html"
       },
       {
         subtitle: "IV",
@@ -14,42 +14,31 @@ let data = [
        }
     ],
     disabled_subtitles: [
-      "IV2",
+      "",
       "IV",
       "",
-      
+    
     ]
   },
   {
-    title: "Auto ID",
+    title: "Auto ID / Static",
     headings: [
       {
-        subtitle: "SR",
-        description: "Code reader",
-        link: "../playlist/playlist-SR.html"
-      }
-    ],
-    disabled_subtitles: [
-      "SJ",
-      "",
-      "",
-      
-    ]
-  },
-  {
-    title: "Static Eliminator",
-    headings: [
+        subtitle: "SR(Code reader)",
+        description: "Traceability solutions",
+        link: " ../playlist/playlist-SR.html "
+      },
       {
-        subtitle: "SJ",
-        description: "Under Development",
+        subtitle: "Static Eliminator & sensor",
+        description: "Static solutions",
         link: ""
       }
     ],
     disabled_subtitles: [
-      "SJ",
+      "Static Eliminator & sensor",
       "",
       "",
-      
+    
     ]
   },
   {
