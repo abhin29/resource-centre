@@ -9,35 +9,24 @@ let data = [
       },
       {
         subtitle: "IV",
-        description: " Vision sensor",
+        description: " Compact/Inbuilt vision sensor",
         link: "../pages/vsc-iv.html"
       }
     ]
   },
   {
-    title: "Auto ID",
+    title: "Auto ID(Traceability) / Static",
     headings: [
       {
         subtitle: "SR",
-        description: "Code reader",
+        description: "Code reader and Traceability",
         link: "../pages/vsc-sr.html"
-      }
-    ]
-  },
-  {
-    title: "Static Eliminator & sensor",
-    headings: [
+      },
       {
-        subtitle: "SJ",
-        description: "Static Eliminator",
+        subtitle: "Static Eliminator & sensor",
+        description: "Static solutions",
         link: "../pages/vsc-sj.html"
       }
-    ],
-    disabled_subtitles: [
-      "",
-      "",
-      "",
-      
     ]
   },
   {
