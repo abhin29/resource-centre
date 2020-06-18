@@ -14,7 +14,7 @@ let data = [
     ]
   },
    {
-    title: "Introduction movies",
+    title: "FW Movies",
     headings: [
       {
         subtitle: "Setting procedure",
