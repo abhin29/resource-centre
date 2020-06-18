@@ -1,32 +1,32 @@
 let data = [
   {
-    title: "Vision sensors",
+    title: "AI Vision sensor / Code Reader",
     headings: [
       {
         subtitle: "IV2",
         description: "AI vision sensor",
         link: "../playlist/playlist-iv2.html"
       },
-      {
-        subtitle: "IV",
-        description: "Under Development",
-        link: ""
-       }
+     {
+        subtitle: "SR(Code reader)",
+        description: "Traceability solutions",
+        link: " ../playlist/playlist-SR.html "
+      }
     ],
     disabled_subtitles: [
       "",
-      "IV",
+      "",
       "",
     
     ]
   },
   {
-    title: "Auto ID / Static",
+    title: "Contact sensor / Static",
     headings: [
       {
-        subtitle: "SR(Code reader)",
-        description: "Traceability solutions",
-        link: " ../playlist/playlist-SR.html "
+        subtitle: "GT",
+        description: "Under Development",
+        link: ""
       },
       {
         subtitle: "Static Eliminator & sensor",
@@ -36,19 +36,19 @@ let data = [
     ],
     disabled_subtitles: [
       "Static Eliminator & sensor",
-      "",
+      "GT",
       "",
     
     ]
   },
   {
-    title: "Application Sensors-1",
+    title: "I-series",
     headings: [
-      {
-        subtitle: "GT",
+       {
+        subtitle: "IV",
         description: "Under Development",
         link: ""
-      },
+       },
       {
         subtitle: "IL",
         description: "Under Development",
@@ -56,14 +56,14 @@ let data = [
       },
       {
         subtitle: "IG",
-        description: "Under Development",
-        link: ""
+        description: "Thrubeam sensor",
+        link: "../playlist/playlist-ig.html"
       }
     ],
      disabled_subtitles: [
       "GT",
       "IL",
-      "IG",
+      "IV",
       
     ]
   },
