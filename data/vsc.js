@@ -1,26 +1,26 @@
 let data = [
   {
-    title: "Vision sensors",
+    title: "AI Vision sensor / Traceability solutions",
     headings: [
       {
         subtitle: "IV2",
         description: "AI Vision Sensor",
         link: "../pages/vsc-iv2.html"
       },
-      {
-        subtitle: "IV",
-        description: " Compact/Inbuilt vision sensor",
-        link: "../pages/vsc-iv.html"
-      }
-    ]
-  },
-  {
-    title: "Auto ID / Static",
-    headings: [
-      {
+       {
         subtitle: "SR(Code reader)",
         description: "Traceability solutions",
         link: "../pages/vsc-sr.html"
+      },
+    ]
+  },
+  {
+    title: "Contact sensor / Static",
+    headings: [
+      {
+        subtitle: "GT2",
+        description: "LVDT Contact sensor",
+        link: "../pages/vsc-gt.html"
       },
       {
         subtitle: "Static Eliminator & sensor",
@@ -30,12 +30,12 @@ let data = [
     ]
   },
   {
-    title: "Application Sensors-1",
+    title: "I-series",
     headings: [
       {
-        subtitle: "GT2",
-        description: "LVDT Contact sensor",
-        link: "../pages/vsc-gt.html"
+        subtitle: "IV",
+        description: " Compact/Inbuilt vision sensor",
+        link: "../pages/vsc-iv.html"
       },
       {
         subtitle: "IL",
