@@ -46,6 +46,11 @@ let data = [
         subtitle: "IG",
         description: "Thrubeam sensor",
         link: "../pages/vsc-ig.html"
+      },
+       {
+        subtitle: "IB",
+        description: "Thrubeam sensor",
+        link: "../pages/vsc-ib.html"
       }
     ],
      disabled_subtitles: [
@@ -56,7 +61,7 @@ let data = [
     ]
   },
   {
-    title: "Application Sensors-2",
+    title: "Application Sensors",
     headings: [
       {
         subtitle: "EX",

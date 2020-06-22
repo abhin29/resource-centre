@@ -68,7 +68,7 @@ let data = [
     ]
   },
   {
-    title: "Application Sensors-2",
+    title: "Application Sensors",
     headings: [
       {
         subtitle: "EX",
