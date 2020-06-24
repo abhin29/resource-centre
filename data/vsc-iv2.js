@@ -26,6 +26,11 @@ let data = [
         subtitle: "Why Vision sensor?",
         description: "",
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={1272591E-64D0-4168-8677-FCBBCACF3CE8}"
+      },
+      {
+        subtitle: " Web Monitor ",
+        description: "Communication 🎬",
+        link: "https://youtu.be/oaWPKl55DPM"
       }
     ]
   },
@@ -76,11 +81,6 @@ let data = [
         subtitle: "Additional learning (AI) ",
         description: "Procedure of Additional Learning 🎬",
         link: "https://youtu.be/WmX8ogixiUk"
-      },
-      {
-        subtitle: " Web Monitor ",
-        description: "Communication 🎬",
-        link: "https://youtu.be/oaWPKl55DPM"
       }
     ],
     disabled_subtitles: [
