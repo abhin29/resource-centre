@@ -65,7 +65,7 @@ let data = [
     headings: [
       {
         subtitle: "EX",
-        description: "Proximity Vibration sensor",
+        description: "Inductive sensor",
         link: ""
       },
       {
@@ -81,7 +81,7 @@ let data = [
     ],
     disabled_subtitles: [
       
-      "EX",
+      "",
       "GA",
       "",
     ]
