@@ -18,6 +18,11 @@ let data = [
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={47525246-7C64-4195-B6AD-F4B826833E8C}"
       },
       {
+        subtitle: "Ambient Light effect",
+        description: "",
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={CF7AEDC7-5094-485B-8E93-C0C8CD3E2C58}"
+      },
+      {
         subtitle: "Why Vision sensor?",
         description: "",
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={1272591E-64D0-4168-8677-FCBBCACF3CE8}"
