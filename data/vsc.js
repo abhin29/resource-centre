@@ -66,7 +66,7 @@ let data = [
       {
         subtitle: "EX",
         description: "Inductive sensor",
-        link: ""
+        link: "../pages/vsc-ex.html"
       },
       {
         subtitle: "GA",
