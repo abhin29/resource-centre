@@ -19,7 +19,7 @@ let data = [
       {
         subtitle: "IL Accuracy Finder",
         description: "",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={C9BAAACE-E2F1-4A44-9155-F17EDA2C6FB4}"
+        link: "https://sway.office.com/8c1RwFMe88SFxT28?ref=Link"
       }
     ],
     disabled_subtitles: [
