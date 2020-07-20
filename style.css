@@ -76,3 +76,13 @@ body {
 .disabled:hover{
   box-shadow: none;
 }
+
+.inner{
+  display: none;
+}
+
+.toggle{
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
