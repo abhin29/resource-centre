@@ -61,6 +61,7 @@ let data = [
   },
   {
     title: "Installation",
+    toggle: true,
     headings: [
       {
         subtitle: "Unboxing",
@@ -90,6 +91,7 @@ let data = [
   },
   {
     title: "Wiring",
+    toggle: true,
     headings: [
       {
         subtitle: "Power ON",

@@ -83,6 +83,5 @@ body {
 
 .toggle{
   cursor: pointer;
-  color: blue;
   text-decoration: underline;
 }
