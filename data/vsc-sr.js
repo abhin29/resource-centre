@@ -46,6 +46,7 @@ let data = [
   },
   {
     title: "Installation",
+    toggle: true,
     headings: [
       {
         subtitle: "Matching Level",
@@ -71,6 +72,7 @@ let data = [
   },
   {
     title: "Comparisons",
+    toggle: true,
     headings: [
       {
         subtitle: "Comparison - conventional Reader",
