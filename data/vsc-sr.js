@@ -31,6 +31,11 @@ let data = [
         subtitle: "SR Depth Control",
         description: "",
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8940ED85-AA78-4C7B-9680-F89118E005D6}"
+      },
+      {
+        subtitle: "SR Robust Angle",
+        description: "",
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={A21C3351-A68B-4174-AA1E-2886409C7F1B}"
       }
     ]
   },
