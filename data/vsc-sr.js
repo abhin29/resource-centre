@@ -28,7 +28,7 @@ let data = [
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={A35643F6-4FF0-420F-B05D-DCCABD62D9A5}"
       },
       {
-        subtitle: "SR Depth Control",
+        subtitle: "SR Robust Depth",
         description: "",
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8940ED85-AA78-4C7B-9680-F89118E005D6}"
       },
