@@ -44,5 +44,46 @@ let data = [
       "",
       
     ]
+  },
+  {
+    title: "Interesting Videos",
+    headings: [
+      {
+        subtitle: "Program part-1",
+        description: "Rubber material",
+        link: "https://youtu.be/rHsXB9hEdPY"
+      },
+      {
+        subtitle: "Program part-2",
+        description: "Curved surface",
+        link: "https://youtu.be/hwUz2LwMgQc"
+       },
+      {
+        subtitle: "Program part-3",
+        description: "Casted metal part",
+        link: "https://youtu.be/Vu1zUJeR3ZA"
+       },
+      {
+        subtitle: "Hi-Acc Position Adjustment",
+        description: "Best position Adjustment",
+        link: "https://youtu.be/nX2jv7TAdWg"
+       },
+      {
+        subtitle: "Ambient Light",
+        description: "Do not care about Sunlight",
+        link: "https://youtu.be/uT4BOwPORm0"
+       },
+      {
+        subtitle: "Web monitor",
+        description: "Remote process monitor",
+        link: "https://youtu.be/oaWPKl55DPM"
+       }
+    ],
+    disabled_subtitles: [
+      "",
+      "",
+      "",
+      
+    ]
   }
 ]
