@@ -111,5 +111,20 @@ let data = [
       "Comparison - Cheap models",
       "" 
     ]
-  }
+  },
+  {
+    title: "Wiring",
+    toggle: true,
+    headings: [
+      {
+        subtitle: "Power ON",
+        description: "",
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={734C13FF-D4D4-48CA-98D5-321F4A838F98}"
+      }
+    ],
+    disabled_subtitles: [
+      ""
+      
+    ]
+  }  
 ];
