@@ -29,7 +29,7 @@ let data = [
   },
   {
     title: "Wiring",
-    toggle: true,
+    toggle: false,
     headings: [
       {
         subtitle: "Power ON",
