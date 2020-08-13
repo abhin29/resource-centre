@@ -85,5 +85,26 @@ let data = [
       "GA",
       "",
     ]
+  },
+  {
+    title: "New Industrial Applications",
+    headings: [
+      {
+        subtitle: "Battery, Electronics, 5G & Communication",
+        description: "",
+        link: ""
+      },
+      {
+        subtitle: "Logistics and Warehouse",
+        description: "",
+        link: ""
+      },
+    ],
+    disabled_subtitles: [
+      
+      "",
+      "",
+      "",
+    ]
   }
 ];
