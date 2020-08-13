@@ -92,12 +92,12 @@ let data = [
       {
         subtitle: "Battery, Electronics, 5G & Communication",
         description: "",
-        link: ""
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={3A59342A-6802-497B-8CB2-3114C1E8B3AF}"
       },
       {
         subtitle: "Logistics and Warehouse",
         description: "",
-        link: ""
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={EBFDDE93-1A63-4083-8926-A3731756929A}"
       },
     ],
     disabled_subtitles: [

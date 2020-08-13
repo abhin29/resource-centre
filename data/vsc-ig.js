@@ -47,4 +47,19 @@ let data = [
       "",
     ]
   },
+  {
+    title: "Wiring",
+    toggle: false,
+    headings: [
+      {
+        subtitle: "Power ON",
+        description: "",
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={D5D65031-3AAE-49B0-B8ED-65C63B9FA459}"
+      }
+    ],
+    disabled_subtitles: [
+      ""
+      
+    ]
+  }  
 ];
