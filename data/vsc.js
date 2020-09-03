@@ -99,6 +99,11 @@ let data = [
         description: "",
         link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={EBFDDE93-1A63-4083-8926-A3731756929A}"
       },
+       {
+        subtitle: "FMCG, Packaging and Pharma",
+        description: "",
+        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={770D8A56-EB12-4F96-B140-E660F83F35A9}"
+      },
     ],
     disabled_subtitles: [
       
