@@ -15,17 +15,17 @@ let data = [
       {
         subtitle: "What is IV2?",
         description: "",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={47525246-7C64-4195-B6AD-F4B826833E8C}"
+        link: "https://keyence.sharepoint.com/:p:/r/sites/ALL_KIN/Shared%20Documents/General/2.%20ASA/%E2%98%86ASA%20VC%20contents/IV2/IV2%20%231.pptx?d=w9b0f8335fe254003a52b1d5b7db3410d&csf=1&web=1&e=FIYChn"
       },
       {
         subtitle: "Ambient Light effect",
         description: "",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={CF7AEDC7-5094-485B-8E93-C0C8CD3E2C58}"
+        link: "https://keyence.sharepoint.com/:p:/r/sites/ALL_KIN/Shared%20Documents/General/2.%20ASA/%E2%98%86ASA%20VC%20contents/IV2/IV2%20%232.pptx?d=w8c07fd084881455ba830c4614968758c&csf=1&web=1&e=NENxc0"
       },
       {
         subtitle: "Why Vision sensor?",
         description: "",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={1272591E-64D0-4168-8677-FCBBCACF3CE8}"
+        link: "https://keyence.sharepoint.com/:p:/r/sites/ALL_KIN/Shared%20Documents/General/2.%20ASA/%E2%98%86ASA%20VC%20contents/IV2/IV2%20%2311.pptx?d=w267fb13b7ecf439789c0018e713620da&csf=1&web=1&e=ODLCgb"
       },
       {
         subtitle: " Web Monitor ",
