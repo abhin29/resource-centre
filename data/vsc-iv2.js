@@ -96,7 +96,7 @@ let data = [
       {
         subtitle: "Power ON",
         description: "",
-        link: "https://keyencein.sharepoint.com/sites/KIN_ALL2/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={006DF239-30F7-465A-AB45-88C6F04E7C9A}"
+        link: "https://keyence.sharepoint.com/:w:/r/sites/ALL_KIN/Shared%20Documents/General/2.%20ASA/%E2%98%86ASA%20VC%20contents/IV2/Wiring/Power.docx?d=w35d30fdfc0c34bc8b79897eacf9340bd&csf=1&web=1&e=IJV6Dg"
       }
     ],
     disabled_subtitles: [
